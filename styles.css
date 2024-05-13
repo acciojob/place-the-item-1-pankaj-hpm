@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.ok {
+	
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	flex-direction:row-reverse;
+
+}
+#gg{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+#xx{
+	height:100px;
+	width:100px;
+	
+	background-color:blue;
+}
+#ee{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
